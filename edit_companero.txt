@@ -1,0 +1,1 @@
+Este texto fue realizado por Martin QUintero, como paso 10 y 11 del taller 2 de MLOps para clonar y editar el repositorio de otra persona
