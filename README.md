@@ -2,6 +2,8 @@
 
 ## Taller 1: Dash Framework
 
+
+
 ### Descripción
 
 Este proyecto consiste en el desarrollo de una aplicación interactiva utilizando Dash, un framework para crear aplicaciones web analíticas basadas en Python. El objetivo de este primer taller es familiarizarse con la estructura de una aplicación Dash, los componentes interactivos y la creación de gráficos, visualizando la demanda energética en Austria.
